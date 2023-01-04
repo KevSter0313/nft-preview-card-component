@@ -1,0 +1,7 @@
+body {
+  font-family: $text-font;
+  font-size: 18px;
+  @include flex();
+  min-height: 100vh;
+  background-color: $main-bg-color;
+}
