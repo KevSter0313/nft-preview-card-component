@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link to repository](https://github.com/KevSter0313/nft-preview-card-component)
-- Live Site URL: [Link to live site](https://your-live-site-url.com)
+- Live Site URL: [Link to live site](https://nft-preview-card-component-iota-plum.vercel.a)
 
 ## My process
 
